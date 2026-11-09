@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="香港·港澳台",翡翠台
+http://183.237.95.108:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="香港·港澳台",明珠台
+http://183.237.95.108:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="香港·港澳台",无线新闻台
 https://proxy.hellohopo.dpdns.org/hls?u=https%3A%2F%2Fh5cdn3.kylintv.tv%2Flive%2Ftvbnews_iphone.m3u8
 #EXTINF:-1 group-title="香港·港澳台",HOY TV
@@ -13,6 +17,8 @@ http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=
 https://proxy.hellohopo.dpdns.org/fs?ch=info&k=fa7476be9d193cad
 #EXTINF:-1 group-title="香港·港澳台",凤凰卫视香港台
 https://proxy.hellohopo.dpdns.org/fs?ch=hongkong&k=fa7476be9d193cad
+#EXTINF:-1 group-title="香港·港澳台",澳视澳门
+http://183.237.95.108:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东",佛山综合
 http://183.237.95.108:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东",客家生活
