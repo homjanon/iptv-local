@@ -12,6 +12,8 @@ http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 group-title="香港·港澳台",港台電視32
 http://45.192.97.170:8880/play/1203.m3u8
 #EXTINF:-1 group-title="香港·港澳台",凤凰卫视中文台
+https://proxy.hellohopo.dpdns.org/fs?ch=chinese&k=fa7476be9d193cad
+#EXTINF:-1 group-title="香港·港澳台",凤凰卫视中文台
 http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="香港·港澳台",凤凰卫视资讯台
 https://proxy.hellohopo.dpdns.org/fs?ch=info&k=fa7476be9d193cad
