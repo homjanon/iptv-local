@@ -1,16 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="香港·港澳台",无线新闻台
+#EXTVLCOPT:http-referrer=https://m.iptv807.com/
+#EXTHTTP:{"Referer":"https://m.iptv807.com/"}
+https://p.iptv200.com/play.php?token=vHYIc74vfmqSXKYurm8Y%2FnTU&tid=gt&id=6&p=2&type=.flv
+#EXTINF:-1 group-title="香港·港澳台",无线新闻台
+https://proxy.hellohopo.dpdns.org/hls?u=https%3A%2F%2Fh5cdn3.kylintv.tv%2Flive%2Ftvbnews_iphone.m3u8
+#EXTINF:-1 group-title="香港·港澳台",HOY資訊台
+#EXTVLCOPT:http-referrer=https://m.iptv807.com/
+#EXTHTTP:{"Referer":"https://m.iptv807.com/"}
+https://p.iptv200.com/play.php?token=81yCDTEp3qqZo%2BVkAEzVs59b&tid=gt&id=23&p=7
 #EXTINF:-1 group-title="香港·港澳台",翡翠台
 http://183.237.95.108:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="香港·港澳台",明珠台
 http://183.237.95.108:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="香港·港澳台",无线新闻台
-https://proxy.hellohopo.dpdns.org/hls?u=https%3A%2F%2Fh5cdn3.kylintv.tv%2Flive%2Ftvbnews_iphone.m3u8
-#EXTINF:-1 group-title="香港·港澳台",HOY TV
-https://proxy.hellohopo.dpdns.org/hls?u=http%3A%2F%2Fuc6.i-cable.com%2Flive_freedirect%2Fopentvhd001_h.live%2Fplaylist.m3u8
-#EXTINF:-1 group-title="香港·港澳台",有線新聞台
-http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-#EXTINF:-1 group-title="香港·港澳台",港台電視32
-http://45.192.97.170:8880/play/1203.m3u8
 #EXTINF:-1 group-title="香港·港澳台",凤凰卫视中文台
 https://proxy.hellohopo.dpdns.org/fs?ch=chinese&k=fa7476be9d193cad
 #EXTINF:-1 group-title="香港·港澳台",凤凰卫视中文台
