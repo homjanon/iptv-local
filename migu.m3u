@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="香港·港澳台",无线新闻台
-#EXTVLCOPT:http-referrer=https://m.iptv807.com/
-#EXTHTTP:{"Referer":"https://m.iptv807.com/"}
-https://p.iptv200.com/play.php?token=vHYIc74vfmqSXKYurm8Y%2FnTU&tid=gt&id=6&p=2&type=.m3u8
-#EXTINF:-1 group-title="香港·港澳台",无线新闻台
 https://proxy.hellohopo.dpdns.org/hls?u=https%3A%2F%2Fh5cdn3.kylintv.tv%2Flive%2Ftvbnews_iphone.m3u8
-#EXTINF:-1 group-title="香港·港澳台",HOY資訊台
-https://proxy.hellohopo.dpdns.org/hls?u=https%3A%2F%2Fp.iptv200.com%2Fplay.php%3Ftoken%3D81yCDTEp3qqZo%252BVkAEzVs59b%26tid%3Dgt%26id%3D23%26p%3D7&r=https%3A%2F%2Fm.iptv807.com%2F
 #EXTINF:-1 group-title="香港·港澳台",翡翠台
 http://183.237.95.108:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="香港·港澳台",明珠台
