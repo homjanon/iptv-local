@@ -1,10 +1,9 @@
 香港·港澳台,#genre#
+无线新闻台,https://proxy.hellohopo.dpdns.org/hls?u=https%3A%2F%2Fp.iptv200.com%2Fplay.php%3Ftoken%3DvHYIc74vfmqSXKYurm8Y%252FnTU%26tid%3Dgt%26id%3D6%26p%3D2%26type%3D.flv&r=https%3A%2F%2Fm.iptv807.com%2F
+无线新闻台,https://proxy.hellohopo.dpdns.org/hls?u=https%3A%2F%2Fh5cdn3.kylintv.tv%2Flive%2Ftvbnews_iphone.m3u8
+HOY資訊台,https://proxy.hellohopo.dpdns.org/hls?u=https%3A%2F%2Fp.iptv200.com%2Fplay.php%3Ftoken%3D81yCDTEp3qqZo%252BVkAEzVs59b%26tid%3Dgt%26id%3D23%26p%3D7&r=https%3A%2F%2Fm.iptv807.com%2F
 翡翠台,http://183.237.95.108:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0
 明珠台,http://183.237.95.108:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-无线新闻台,https://proxy.hellohopo.dpdns.org/hls?u=https%3A%2F%2Fh5cdn3.kylintv.tv%2Flive%2Ftvbnews_iphone.m3u8
-HOY TV,https://proxy.hellohopo.dpdns.org/hls?u=http%3A%2F%2Fuc6.i-cable.com%2Flive_freedirect%2Fopentvhd001_h.live%2Fplaylist.m3u8
-有線新聞台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-港台電視32,http://45.192.97.170:8880/play/1203.m3u8
 凤凰卫视中文台,https://proxy.hellohopo.dpdns.org/fs?ch=chinese&k=fa7476be9d193cad
 凤凰卫视中文台,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
 凤凰卫视资讯台,https://proxy.hellohopo.dpdns.org/fs?ch=info&k=fa7476be9d193cad
